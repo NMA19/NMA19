@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Sétif
 * ✉️  You can contact me at [med363839@gmail.com](mailto:med363839@gmail.com)
-* 🧠  I'm learning java and spring boot
+* 🧠  I'm learning java script and reacte
 * 🤝  I'm open to collaborating on Other drone projects!
 
 <a href="https://www.github.com/NMA19" target="_blank" rel="noreferrer"><img
