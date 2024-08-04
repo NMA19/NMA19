@@ -4,7 +4,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 * 🌍  I'm based in Sétif
 * ✉️  You can contact me at [med363839@gmail.com](mailto:med363839@gmail.com)
-* 🧠  I'm learning JavaScript and Reacte
+* 🧠  I'm learning JavaScript and React
 * 🤝  I'm open to collaborating on Other drone projects!
 
 <a href="https://www.github.com/NMA19" target="_blank" rel="noreferrer"><img
