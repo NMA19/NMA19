@@ -17,8 +17,8 @@
 ```diff
 + Recent Computer Science Graduate 🎓 
 ! Specializing in Frontend Development 💅
-# Currently Mastering: Flutter & JavaScript ⚡
-- Fun Fact: I debug CSS in my sleep! 💤
+# Currently leveling up: Flutter & Advanced JavaScript ⚡
+- Fun Fact: I once coded a Flutter app that orders pizza automatically when I say "I'm hungry!" 🍕
 ```
 🛠 Tech Arsenal
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,flutter,nodejs,html,css,tailwind,git,github,vscode,py,swift&perline=7" alt="Tech Stack"/> </p>
@@ -26,7 +26,7 @@
 📊 GitHub Analytics
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NMA19&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NMA19&theme=github-dark&hide_border=true" height="150" alt="streak"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMA19&theme=github_dark&hide_border=true&layout=compact" height="150" alt="languages"/> </div>
 
-🐍 Code Serpent
+<h2>📈 Contribution Graph</h2>
 ```mermaid
 graph TD
     A[Coffee] --> B{Code}
@@ -35,7 +35,7 @@ graph TD
     B --> E[Innovation]
     C --> F[Success]
 ```
-
+🐍 Code Serpent
     
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NMA19/NMA19/output/github-snake-dark.svg"> <img alt="Contribution Snake" src="https://raw.githubusercontent.com/NMA19/NMA19/output/github-snake.svg" width="100%"> </picture> </div>
 
