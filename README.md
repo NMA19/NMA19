@@ -1,84 +1,65 @@
-<h1 align="center">Hi , I'm Mohamed</h1>
-<h3 align="center">A passionate MERN Stack Developer from Algeria</h3>
+[![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)](https://portfolio-site.com)
 
-<p align="center">
-  <a href="https://github.com/NMA19">
-    <img src="https://komarev.com/ghpvc/?username=NMA19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://twitter.com/yourtwitter" target="blank">
-    <img src="https://img.shields.io/twitter/follow/yourtwitter?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+<h1 align="center">Hi , I'm Mohamed 👨💻</h1>
+<h3 align="center">Recent Computer Science Graduate | Full Stack Developer</h3>
 
 <div align="center">
   <a href="https://github.com/NMA19">
-    <img src="https://github-readme-stats.vercel.app/api?username=NMA19&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NMA19&theme=vision-friendly-dark&hide_border=true&layout=compact&langs_count=6" height="150" alt="languages graph" />
+    <img src="https://komarev.com/ghpvc/?username=NMA19&label=Profile+Views&color=blue&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/twitter/follow/yourhandle?style=social" alt="Twitter Follow" />
   </a>
 </div>
 
 ###
 
-<h3 align="left">🛠 Tech Stack</h3>
+📚 Recent Computer Science Graduate specializing in Backend Development  
+💼 Hands-on experience with Node.js, Express, and React  
+🚀 Currently expanding skills in SwiftUI and Python  
+📫 Reach me: [med363839@gmail.com](mailto:med363839@gmail.com)
 
-<p align="left">
-  <!-- MERN Stack -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+###
+
+<div align="center">
+  <a href="https://your-portfolio-site.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NMA19&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" height="150" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NMA19&theme=vision-friendly-dark&hide_border=true" height="150" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NMA19&theme=vision-friendly-dark&hide_border=true&layout=compact" height="150" alt="languages"/>
+</div>
+
+###
+
+<h2>🛠 Tech Stack</h2>
+
+<div align="left">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   
-  <!-- Additional Tech -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</div>
 
 ###
 
-<h3 align="left">🔥 My Contributions</h3>
+<h2>📈 Contribution Graph</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NMA19&theme=vision-friendly-dark&hide_border=true" alt="Contribution Streak" />
-</p>
-
-###
-
-<h3 align="left">📫 Let's Connect</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/yourtwitter" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourtwitter" height="30" width="40" />
-  </a>
-  <a href="mailto:med363839@gmail.com">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" />
-  </a>
-</p>
-
-###
-
-## 🐍 Contribution Snake 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NMA19/NMA19/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NMA19/NMA19/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NMA19/NMA19/output/github-snake.svg" width="100%" />
-</picture>
+```mermaid
+graph TD
+    A[Daily Coding] --> B(New Features)
+    A --> C(Bug Fixes)
+    A --> D(Learning)
+    B --> E{Deployment}
+    C --> E
+    D --> F[Skill Improvement]
