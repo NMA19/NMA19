@@ -6,7 +6,28 @@
   </a>
 </div>
 
-![Snake Animation](https://github.com/NMA19/NMA19/blob/output/github-contribution-grid-snake.svg)
+###
+
+<p align="center">
+    <img src="https://moe-counter.glitch.me/get/@osiristape?theme=rule34"/>
+</p>
+
+<div align="center">
+  <a href="https://rahanbenabid.github.io/Resume/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" />
+  </a>
+</div>
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahanBenabid/RahanBenabid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahanBenabid/RahanBenabid/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RahanBenabid/RahanBenabid/output/github-contribution-grid-snake.svg">
+</picture>
+
+###
 
 ## 🚀 About Me
 ```diff
