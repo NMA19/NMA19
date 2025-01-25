@@ -76,7 +76,13 @@
 
 ###
 
-<h3 align="left">🐍 Coding Activity</h3>
+## 🐍 Contribution Snake
+
+![Contribution Snake](assets/github-contribution-grid-snake.svg)
+
+<!-- Optional: Animated version -->
+<img src="assets/github-snake.svg" alt="Animated Snake Game" width="100%"/>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/NMA19/NMA19/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
