@@ -16,3 +16,16 @@
 ! Specializing in Frontend Development 💅
 # Currently Mastering: Flutter & JavaScript ⚡
 - Fun Fact: I once fixed a bug in my dreams! 💤
+
+🛠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,flutter,nodejs,html,css,tailwind,git,github,vscode&perline=6" alt="Tech Stack"/> </p>
+
+📊 GitHub Stats
+<div align="center"> <a href="https://github.com/NMA19"> <img src="https://github-readme-stats.vercel.app/api?username=NMA19&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NMA19&theme=github-dark&hide_border=true" height="150" alt="streak"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMA19&theme=github_dark&hide_border=true&layout=compact" height="150" alt="languages"/> </a> </div>
+
+graph LR
+    A[Coffee] --> B{Code}
+    B --> C[Projects]
+    B --> D[Learning]
+    B --> E[Innovation]
+    C --> F[Success]
