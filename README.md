@@ -76,13 +76,9 @@
 
 ###
 
-## 🐍 Contribution Snake
-
-![Contribution Snake](assets/github-contribution-grid-snake.svg)
-
-<!-- Optional: Animated version -->
-<img src="assets/github-snake.svg" alt="Animated Snake Game" width="100%"/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NMA19/NMA19/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+## 🐍 Contribution Snake 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NMA19/NMA19/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NMA19/NMA19/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NMA19/NMA19/output/github-snake.svg" width="100%" />
+</picture>
