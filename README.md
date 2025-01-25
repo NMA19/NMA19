@@ -26,7 +26,7 @@
 📊 GitHub Analytics
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NMA19&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" alt="stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NMA19&theme=github-dark&hide_border=true" height="150" alt="streak"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NMA19&theme=github_dark&hide_border=true&layout=compact" height="150" alt="languages"/> </div>
 
-<h2>📈 Contribution Graph</h2>
+📈 Contribution Graph
 ```mermaid
 graph TD
     A[Coffee] --> B{Code}
