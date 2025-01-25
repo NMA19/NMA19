@@ -19,6 +19,7 @@
 ! Specializing in Frontend Development 💅
 # Currently Mastering: Flutter & JavaScript ⚡
 - Fun Fact: I debug CSS in my sleep! 💤
+```
 🛠 Tech Arsenal
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,flutter,nodejs,html,css,tailwind,git,github,vscode,py,swift&perline=7" alt="Tech Stack"/> </p>
 📊 GitHub Analytics
@@ -45,5 +46,5 @@ const devProfile = {
   motto: "Turning Coffee Into Code Since 2023"
 };
 </details><details> <summary><b>📈 Deep Analytics</b></summary> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NMA19&theme=github_dark" height="180" alt="Productive Time"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NMA19&theme=github_dark" height="180" alt="Repos per Language"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NMA19&theme=github_dark" height="180" alt="Most Commit Language"/> </div> </details><div align="center"> <img src="https://profile-counter.glitch.me/NMA19/count.svg" alt="Visitor Counter"/> <img src="https://moe-counter.glitch.me/get/@osiristape?theme=rule34" alt="Anime Counter"/> </div>
-```
+
 
