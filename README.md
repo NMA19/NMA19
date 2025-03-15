@@ -60,27 +60,6 @@ graph TD
 ▰▰▰▰▰▰▰▰▱ 85% (Core Gameplay Complete)
 
 ---
-
-### 🖥️ Interactive Portfolio (Design Phase) [![Inspiration](https://img.shields.io/badge/Inspiration-Tobias_Meyhoefer-blueviolet)](https://www.tobiasmeyhoefer.de)
-**Modern Developer Showcase**  
-`Next.js` `Three.js` `Framer Motion` `CMS`
-
-**Planned Features:**  
-- 🌀 3D interactive background with particle animations  
-- 🎨 Theme-switching (light/dark/matrix)  
-- 📱 Responsive & gesture-controlled navigation  
-- 📈 Live coding activity visualizer  
-
-**Tech Stack:**  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=threedotjs)
-![Framer](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer)
-
-**Development Status:**  
-▰▰▰▱▱▱▱▱ 30% (UI Prototyping)
-
----
-
 ## 🛠️ Implementation Details
 
 ### AI Quiz Architecture
@@ -106,4 +85,4 @@ const devProfile = {
   dailyRoutine: ["☕ Code", "🐛 Debug", "🚀 Deploy", "🔁 Repeat"],
   motto: "Turning Coffee Into Code Since 2023"
 };
-</details><details> <summary><b>📈 Deep Analytics</b></summary> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NMA19&theme=github_dark" height="180" alt="Productive Time"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NMA19&theme=github_dark" height="180" alt="Repos per Language"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NMA19&theme=github_dark" height="180" alt="Most Commit Language"/> </div> </details><div align="center"> <img src="https://profile-counter.glitch.me/NMA19/count.svg" alt="Visitor Counter"/> <img src="https://moe-counter.glitch.me/get/@osiristape?theme=rule34" alt="Anime Counter"/> </div>
+
