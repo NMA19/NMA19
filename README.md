@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://rahanbenabid.github.io/Resume/" target="_blank">
-    <img src="" alt="Portfolio"/>
   </a>
   <a href="https://github.com/NMA19">
     <img src="https://komarev.com/ghpvc/?username=NMA19&label=Profile+Views&color=blue&style=flat" alt="Profile views"/>
