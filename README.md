@@ -15,7 +15,7 @@
 
 ```diff
 + Recent Computer Science Graduate 🎓 
-! Specializing in Frontend Development 💅
+! Specializing in Frontend Development 
 # Currently leveling up: Flutter & Advanced JavaScript ⚡
 - Fun Fact: I once coded a Flutter app that orders pizza automatically when I say "I'm hungry!" 🍕
 ```
